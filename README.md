@@ -16,15 +16,6 @@
 
 ---
 
-### 🏆 GitHub Achievements:
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vedantvijayhumbe&margin-w=15&margin-h=15&theme=algolia&no-bg=true" alt="GitHub Profile Trophies" />
-  </a>
-</p>
-
----
-
 ### 🚀 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/vedant-humbe" target="_blank">
@@ -53,28 +44,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantvijayhumbe&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantvijayhumbe&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
 ### ⚡ Fun GitHub Metrics:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantvijayhumbe&theme=radical" alt="GitHub Metrics" />
 </p>
 
 ---
-
-### 📫 Reach Out:
-💌 Email: **vedant.yourmail@example.com**  
-🌐 Portfolio: [Coming Soon!]
-
----
+💌 Email: **vedanthumbe3i@gmail.com**  
+🌐 Portfolio: https://www.linkedin.com/in/vedant-humbe-a96a94327/
 
 🔥 _"Keep coding, keep innovating!"_ 🚀
