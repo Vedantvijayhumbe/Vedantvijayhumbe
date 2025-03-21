@@ -1,20 +1,5 @@
-<h1 align="center">👋 Hi, I'm Vedant Humbe</h1>
-<h3 align="center">🚀 Passionate Open-Source Contributor | Backend Developer | ML Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedantvijayhumbe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vedantvijayhumbe?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
----
-
-### 👨‍💻 About Me:
-- 🔭 I’m currently working on **Codemetrics**  
-- 🌱 I’m currently learning **Backend Development (Django, DRF, JWT, APIs)**  
-- 💬 Ask me about **Open-Source, Python, Backend Development, and ML**  
-- ⚡ Fun fact: I love solving **competitive programming problems** & tracking GitHub commits!  
-
----
+<h2 align="center">👋 Hi, I'm Vedant Humbe</h2>
+<h3 align="center"> それは重要ですか？ </h3>
 
 ### 🚀 Connect with Me:
 <p align="left">
