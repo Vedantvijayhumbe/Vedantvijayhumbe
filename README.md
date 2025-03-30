@@ -1,41 +1,30 @@
-<h2 align="center">👋 Hi, I'm Vedant Humbe</h2>
-<h3 align="center"> それは重要ですか？ </h3>
+<h1 align="center" style="color: #00FF00;">👾 Hey, I'm Vedant Humbe 🚀</h1>
+<h3 align="center"><i>それは重要ですか？</i> (Does it matter?)</h3>
 
-### 🚀 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/vedant-humbe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/vedantvijayhumbe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@VedHumbe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
-### ⚡ Fun GitHub Metrics:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantvijayhumbe&theme=radical" alt="GitHub Metrics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00FF00&size=22&center=true&vCenter=true&width=600&lines=Σ(コード+数学)=∞;Decrypting+the+universe...;01101100+01101111+01100111+01101001+01100011+01101001" />
 </p>
 
 ---
-💌 Email: **vedanthumbe3i@gmail.com**  
-🌐 Portfolio: https://www.linkedin.com/in/vedant-humbe-a96a94327/
 
-🔥 _"Keep coding, keep innovating!"_ 🚀
+### 📈 **Stock-Like Daily Commit Graph:**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantvijayhumbe&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 📊 **GitHub Stats:**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantvijayhumbe&theme=github_dark" />
+  
+</p>
+
+---
+
+### 🧠 **∫ Thought of the Day**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
